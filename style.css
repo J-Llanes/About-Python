@@ -1,0 +1,141 @@
+#container {
+	width: 960px;
+	background-color: #2b5b84;
+	padding: 10px;
+	}
+#header {
+	position: relative;
+	}
+#header img {
+	width: 40%;
+	display: inline-block;
+	}
+#search {
+	top: 0px;
+   	right: 0px;
+    	position: absolute;
+	}
+#search p {
+	font: 10pt arial;
+	color: white;
+	text-align: right;
+	margin: 0px 25px 0px 30px;
+	}
+#search a {
+	color: #ffde57;
+	}
+#searchbar {
+	background-color: DarkSlateGray;
+	border-radius: 10px;
+	padding: 20px 30px 20px 30px;
+	box-shadow: 2px 2px black;
+	}
+span {
+	color: black;
+	}
+.button {
+	background-color: royalblue;
+	border-radius: 5px;
+	color: white;
+	}
+#navbar {
+	font: 16pt arial;
+	text-align: center;
+	background-color: steelblue;
+	border-radius: 10px;
+	padding: 20px 30px 20px 30px;
+	margin: 0px 20px 0px 50px;
+	box-shadow: 2px 2px black;
+	}
+#navbar a {
+	color: white;
+	text-decoration: none;
+	margin: 0px 20px 0px 20px;
+	}
+#nav {
+	width: 20%;
+	vertical-align: top;
+	text-align: center;
+	display: inline-block;
+	margin: 20px 0px 20px 70px;
+	padding-right: 20px;
+	}
+#nav ul {
+	list-style-position: inside;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	}
+#nav li {
+	font: 12pt arial;
+	text-decoration: underline;
+	padding: 5px 0px 5px 0px;
+	}
+#main-content {
+	width: 65%;
+	text-align: center;
+	display: inline-block;
+	margin: 20px 20px 20px 0px;
+	padding-right: 30px;
+	}
+#main-content p {
+	font: 10pt arial;
+	color: white;
+	}
+#zen p {
+	color: #ffde57;
+	font: 14pt arial;
+	font-style: italic;
+	margin: 10px 0px 10px 0px;
+	}
+#python p {
+	font: 12pt arial;
+	margin: 10px 0px 10px 0px;
+	}
+#body {
+	width: 960px;
+	margin: auto;
+	padding: 10px;
+	text-align: center;
+	}
+.content {
+	width: 29%;
+	vertical-align: top;
+	border-top: 5px solid steelblue;
+	font: 10pt arial;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 0px 100px 0px 20px;
+	text-align: center;
+	display: inline-block;
+	}
+.content h3 {
+	font: 12pt arial;
+	font-weight: bold;
+	margin: 5px 0px 10px 0px;
+	}
+.content a {
+	color: lightblue;
+	text-decoration: none;
+	}
+#footer {
+	width: 960px;
+	font: 8pt arial;
+	color: lightsteelblue;
+	background: linear-gradient(#2b5b84, steelblue);
+	text-align: center;
+	padding: 0px 10px 0px 10px;
+	}
+#botnav {
+	font: 10pt arial;
+	text-align: center;
+	padding: 40px 30px 0px 30px;
+	margin: 0px 20px 0px 50px;
+	}
+#botnav a {
+	color: lightsteelblue;
+	text-decoration: none;
+	margin: 0px 20px 0px 20px;
+	}
+
